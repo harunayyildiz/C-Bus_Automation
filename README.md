@@ -1,7 +1,8 @@
 # C-Bus_Automation
 C# Otobüs Otomasyonu
 <div align="center"><h1> Programın Akışı </h1> </div>
-<div align="left"><h3> 1.Rezervasyon Alma </h3> </div>
+
+<div align="left"><h3> 1. Rezervasyon Alma </h3> </div>
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://www.resimag.com/p1/999de78cf2e.gif" width="811" height="532">
 <div align="center"><h2> Formlar </h2> </div>
 
