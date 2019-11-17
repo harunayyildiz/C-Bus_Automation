@@ -1,4 +1,3 @@
-# C-Bus_Automation
 C# Otobüs Otomasyonu
 <div align="center"><h1> Programın Akışı </h1> </div>
 
