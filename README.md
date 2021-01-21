@@ -18,8 +18,6 @@ C# Otobüs Otomasyonu
 
 
 
-
-
 <div align="center"><h1> C# Otel Resepsiyon Otomasyonu </h1> </div>
 <div align="center"><h1> Programın Akışı </h1> </div>
 <img src= "https://i.imgyukle.com/2019/11/18/Rnphjq.gif" />
@@ -27,6 +25,14 @@ C# Otobüs Otomasyonu
 <img src= "https://i.imgyukle.com/2019/11/18/RnppYv.gif" />
 
 
+
+<div align="center"><h1> C# Passaparola Oyunu</h1> </div>
+<div align="center"><h1> Giriş Kısmı </h1> </div>
+<img src="https://i.imgyukle.com/2019/11/18/RnpIUb.gif" />
+<div align="center"><h1> İçerik Kısmı </h1> </div>
+<img src="https://i.imgyukle.com/2019/11/18/RnpaYQ.gif"  />
+<div align="center"><h1> Formlar </h1> </div> 
+<img src= "https://i.imgyukle.com/2019/11/18/RnpHvt.gif" />
 
 
 
