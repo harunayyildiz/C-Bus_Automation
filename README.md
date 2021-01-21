@@ -10,7 +10,7 @@ C# Otobüs Otomasyonu
 
 
 
-#C# Pizza Otomasyonu
+<div align="center"><h1> C# Pizza Otomasyonu </h1> </div>
 <div align="center"><h1> Programın Akışı </h1> </div>
 <img src= "https://i.imgyukle.com/2019/11/18/RnpePj.gif" />
 <div align="center"><h2> Formlar </h2> </div>
