@@ -42,4 +42,4 @@ C# Windows Form Application Projeleri
 
 
 
-<div align="center"><h3> Projeyle İlgili Bilgi için: harunayyildizz15@gmail.com </h3> </div>
+<div align="center"><h3> Projeyelerle İlgili Bilgi için: harunayyildizz15@gmail.com </h3> </div>
